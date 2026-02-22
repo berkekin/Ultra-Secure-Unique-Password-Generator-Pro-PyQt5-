@@ -5,7 +5,6 @@ is a PyQt5 desktop app for generating cryptographically secure passwords with gl
 
 ---
 
-## GitHub README Intro (Professional / Polished)
 
 # Ultra Secure Unique Password Generator Pro (PyQt5)
 
